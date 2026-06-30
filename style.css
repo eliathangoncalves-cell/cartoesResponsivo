@@ -1,3 +1,11 @@
+.caixa-cartoes{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
 .caixote{
     width: 300px;
     height: 450px;
